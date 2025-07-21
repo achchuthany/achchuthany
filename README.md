@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Achchuthany
+# 👋 Hi, I'm Achchuthan
 
 **Instructor & Full Stack Engineer**
 
